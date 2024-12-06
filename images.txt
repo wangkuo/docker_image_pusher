@@ -1,4 +1,5 @@
 #xhofe/alist:latest
 #xiaoyaliu/alist:latest
 #redis:7.4.1
-sameersbn/squid
+#sameersbn/squid
+b3log/siyuan:v3.1.14
