@@ -3,4 +3,5 @@
 #redis:7.4.1
 #sameersbn/squid
 #b3log/siyuan:v3.1.14
-rabbitmq:4.0.4-management-alpine
+#rabbitmq:4.0.4-management-alpine
+0nlylty/one-key-update:zspace
