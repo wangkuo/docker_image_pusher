@@ -5,4 +5,4 @@
 #b3log/siyuan:v3.1.14
 #rabbitmq:4.0.4-management-alpine
 #0nlylty/one-key-update:zspace
-0nlylty/dockercopilot:zspace
+0nlylty/dockercopilot:ZSPACE
