@@ -7,4 +7,5 @@
 #0nlylty/one-key-update:zspace
 #0nlylty/dockercopilot:ZSPACE
 #mtphotos/mt-photos:1.34.1
-wangkuo/audio-merger-api:latest
+#wangkuo/audio-merger-api:latest
+python:3.13-slim:latest
